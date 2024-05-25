@@ -1,4 +1,4 @@
-baseURL: https://xyming108.github.io/ # 绑定的域名
+baseURL: https://w-liveinlife.com/ # 绑定的域名
 languageCode: zh # en-us
 title: Sulv's Blog
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
@@ -99,7 +99,7 @@ params:
     enabled: true
     title: (〃'▽'〃)
     subtitle:
-    # subtitle: "🧨学而时习之，不亦说乎？有朋自远方来，不亦乐乎？<br/>👇联系方式"
+    # subtitle: "🧨学而时习之？<br/>👇联系方式"
     imageUrl: "img/Q.gif"
     imageTitle:
     imageWidth: 150
